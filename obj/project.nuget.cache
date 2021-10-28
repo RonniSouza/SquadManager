@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iiZdq2odz6A2bXEol5wquM70SsEr3alXdOuHlHvyU6mvOodo3+w8/sVGwGNmUuBANJL0crFV1jr4O7LRVLZUog==",
+  "dgSpecHash": "K0fuPjtk1IVvs2xXn1h+kfMeYGjVpBwUhE9+hD5wcqEqnXmY5Mufc/M069Km0MJ7f8uQPy64atSE/C4CKgq0xQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ronni\\estudo\\c#\\projetocsharp\\SquadManager\\SquadManager.csproj",
+  "projectFilePath": "C:\\Users\\Ronni\\estudo\\c#\\projetocsharp\\squadmanager\\SquadManager.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

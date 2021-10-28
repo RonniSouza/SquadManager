@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ronni\\estudo\\c#\\projetocsharp\\SquadManager\\SquadManager.csproj": {}
+    "C:\\Users\\Ronni\\estudo\\c#\\projetocsharp\\squadmanager\\SquadManager.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ronni\\estudo\\c#\\projetocsharp\\SquadManager\\SquadManager.csproj": {
+    "C:\\Users\\Ronni\\estudo\\c#\\projetocsharp\\squadmanager\\SquadManager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ronni\\estudo\\c#\\projetocsharp\\SquadManager\\SquadManager.csproj",
+        "projectUniqueName": "C:\\Users\\Ronni\\estudo\\c#\\projetocsharp\\squadmanager\\SquadManager.csproj",
         "projectName": "SquadManager",
-        "projectPath": "C:\\Users\\Ronni\\estudo\\c#\\projetocsharp\\SquadManager\\SquadManager.csproj",
+        "projectPath": "C:\\Users\\Ronni\\estudo\\c#\\projetocsharp\\squadmanager\\SquadManager.csproj",
         "packagesPath": "C:\\Users\\Ronni\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ronni\\estudo\\c#\\projetocsharp\\SquadManager\\obj\\",
+        "outputPath": "C:\\Users\\Ronni\\estudo\\c#\\projetocsharp\\squadmanager\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
