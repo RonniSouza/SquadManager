@@ -10,6 +10,7 @@ C:\Users\Ronni\estudo\c#\projetocsharp\squadmanager\bin\Debug\net5.0\ref\SquadMa
 C:\Users\Ronni\estudo\c#\projetocsharp\squadmanager\bin\Debug\net5.0\SquadManager.pdb
 C:\Users\Ronni\estudo\c#\projetocsharp\squadmanager\bin\Debug\net5.0\SquadManager.Views.dll
 C:\Users\Ronni\estudo\c#\projetocsharp\squadmanager\bin\Debug\net5.0\SquadManager.Views.pdb
+C:\Users\Ronni\estudo\c#\projetocsharp\squadmanager\bin\Debug\net5.0\FluentValidation.dll
 C:\Users\Ronni\estudo\c#\projetocsharp\squadmanager\obj\Debug\net5.0\SquadManager.csprojAssemblyReference.cache
 C:\Users\Ronni\estudo\c#\projetocsharp\squadmanager\obj\Debug\net5.0\SquadManager.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Ronni\estudo\c#\projetocsharp\squadmanager\obj\Debug\net5.0\SquadManager.AssemblyInfoInputs.cache
@@ -35,8 +36,8 @@ C:\Users\Ronni\estudo\c#\projetocsharp\squadmanager\obj\Debug\net5.0\Razor\Views
 C:\Users\Ronni\estudo\c#\projetocsharp\squadmanager\obj\Debug\net5.0\SquadManager.RazorTargetAssemblyInfo.cache
 C:\Users\Ronni\estudo\c#\projetocsharp\squadmanager\obj\Debug\net5.0\SquadManager.RazorTargetAssemblyInfo.cs
 C:\Users\Ronni\estudo\c#\projetocsharp\squadmanager\obj\Debug\net5.0\SquadManager.Views.pdb
+C:\Users\Ronni\estudo\c#\projetocsharp\squadmanager\obj\Debug\net5.0\SquadManager.csproj.CopyComplete
 C:\Users\Ronni\estudo\c#\projetocsharp\squadmanager\obj\Debug\net5.0\SquadManager.dll
 C:\Users\Ronni\estudo\c#\projetocsharp\squadmanager\obj\Debug\net5.0\ref\SquadManager.dll
 C:\Users\Ronni\estudo\c#\projetocsharp\squadmanager\obj\Debug\net5.0\SquadManager.pdb
 C:\Users\Ronni\estudo\c#\projetocsharp\squadmanager\obj\Debug\net5.0\SquadManager.genruntimeconfig.cache
-C:\Users\Ronni\estudo\c#\projetocsharp\squadmanager\obj\Debug\net5.0\SquadManager.csproj.CopyComplete
